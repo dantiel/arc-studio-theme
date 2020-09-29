@@ -1,3 +1,11 @@
+# Arc Studio Theme
+
+This is a slightly modified version of the original Arc theme, it is _much_  darker, and the blue accents were replaced by gray to make the theme less distracting to the eyes and give it a more professional studio environment look. 
+
+![A screenshot of the Arc studio theme using Inkscape on macOS](arc-studio-screenshot.png)
+
+## 
+
 # Arc Theme
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and GNOME Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME, Unity, Budgie, Pantheon, Xfce, MATE, etc.
