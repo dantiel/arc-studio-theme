@@ -2,8 +2,8 @@
 
 This is a slightly modified version of the original Arc theme, it is _much_  darker, and the blue accents were replaced by gray to make the theme less distracting to the eyes and give it a more professional studio environment look. 
 
-![A screenshot of the Arc studio theme using Inkscape on macOS](arc-studio-screenshot.png)
-
+![A screenshot of the Arc Studio theme using Inkscape on macOS](https://github.com/dantiel/arc-studio-theme/blob/master/arc-studio-screenshot.png?raw=true)
+<sub>Screenshot of the Arc Studio theme using Inkscape on macOS</sub>
 ## 
 
 # Arc Theme
